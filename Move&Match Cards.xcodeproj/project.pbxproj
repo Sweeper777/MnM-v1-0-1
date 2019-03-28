@@ -1141,6 +1141,8 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Move&Match Cards/Move&Match Cards-Prefix.pch";
 				INFOPLIST_FILE = "Move&Match Cards/Move&Match Cards-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MACH_O_TYPE = mh_bundle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "EAD135A0-2A16-448D-BE04-E59FAA3D66F5";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EAD135A0-2A16-448D-BE04-E59FAA3D66F5";
@@ -1156,6 +1158,8 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Move&Match Cards/Move&Match Cards-Prefix.pch";
 				INFOPLIST_FILE = "Move&Match Cards/Move&Match Cards-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MACH_O_TYPE = mh_bundle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "EAD135A0-2A16-448D-BE04-E59FAA3D66F5";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "EAD135A0-2A16-448D-BE04-E59FAA3D66F5";
@@ -1192,6 +1196,8 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Move&Match Cards/Move&Match Cards-Prefix.pch";
 				INFOPLIST_FILE = "Move&Match Cards/Move&Match Cards-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MACH_O_TYPE = mh_bundle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
